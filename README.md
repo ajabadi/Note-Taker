@@ -35,7 +35,7 @@ As a small business owner, I want to be able to write and save notes so that I c
 
 
 ## Additional Information 
-This is the deployed [application]([https://dashboard.heroku.com/apps/note-tak3r/deploy/github](https://note-tak3r-5ad0b95e1d83.herokuapp.com)) by Heroku 
+This is the deployed [application] (https://note-tak3r-5ad0b95e1d83.herokuapp.com) by Heroku 
 
 
 ### Sample of Application
