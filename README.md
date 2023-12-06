@@ -35,8 +35,9 @@ As a small business owner, I want to be able to write and save notes so that I c
 
 
 ## Additional Information 
+This is the deployed [application](https://dashboard.heroku.com/apps/note-tak3r/deploy/github) by Heroku 
 
 
-
-### Sample logo 
+### Sample of Application
+<img width="1268" alt="Screen Shot 2023-12-06 at 02 02 57" src="https://github.com/ajabadi/Note-Taker/assets/145517793/2217d73b-09ff-4bbe-9357-6a292cdd2e2e">
 
